@@ -7,7 +7,7 @@
 
 <!-- Add your GIF here (replace with your actual GIF URL) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVhZ3VxZ3p3cW5xY3JjY2N5dW9lY3R6eHZ0dGJ4Y2R5d3B2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/your-gif-id-here/giphy.gif" alt="coding-gif" width="400" align="right" />
+  <img src="https://github.com/dhruvitsojitra5676/dhruvitsojitra5676/edit/main/github.gif" alt="coding-gif" width="400" align="right" />
 </div>
 
 - 🌱 I'm currently learning **🧠 LLM apps with Python | Full-stack dev with React, FastAPI & Node.js**

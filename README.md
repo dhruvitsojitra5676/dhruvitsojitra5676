@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Dhruvit Sojitra</h1>
 <h3 align="center">💡 Passionate Developer | AI, FastAPI & React | Turning Ideas into Scalable Applications</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvitsojitra5676&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvitsojitra5676" /> </p>
 
-- 🌱 I’m currently learning **🧠 LLM apps with Python | Full-stack dev with React, FastAPI & Node.js**
+<!-- Add your GIF here (replace with your actual GIF URL) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVhZ3VxZ3p3cW5xY3JjY2N5dW9lY3R6eHZ0dGJ4Y2R5d3B2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/your-gif-id-here/giphy.gif" alt="coding-gif" width="400" align="right" />
+</div>
+
+- 🌱 I'm currently learning **🧠 LLM apps with Python | Full-stack dev with React, FastAPI & Node.js**
 
 - 💬 Ask me about **LLMs, Full-Stack Development, and Cool Tech**
 
 - 📫 How to reach me **dhruvitsojitra5676@gmail.com**
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

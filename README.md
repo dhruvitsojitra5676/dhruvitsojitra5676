@@ -7,7 +7,7 @@
 
 <!-- Add your GIF here (replace with your actual GIF URL) -->
 <div align="center">
-  <img src="https://github.com/dhruvitsojitra5676/dhruvitsojitra5676/edit/main/github.gif" alt="coding-gif" width="400" align="right" />
+  <img src="https://github.com/dhruvitsojitra5676/dhruvitsojitra5676/blob/main/github.gif" alt="coding-gif" width="400" align="right" />
 </div>
 
 - 🌱 I'm currently learning **🧠 LLM apps with Python | Full-stack dev with React, FastAPI & Node.js**
